@@ -1,4 +1,4 @@
-# 24-1_Algorithm_Study_BABO  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BOAZ-bigdata/23-1_Study_BABO&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 24-1_Algorithm_Study_BABO  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BOAZ-bigdata/24-1_Study_BABO_Algorithm&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 BOAZ BABO 3기 알고리즘 스터디
 ### BOAZ Algorithm Best Output </br>
 🐣 바보들의 성장 스토리
