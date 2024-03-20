@@ -2,7 +2,8 @@
 # 3 그리디
 
 
-# 3.1 거스름돈
+## 3.1 거스름돈
+```python
 n = 1260
 count = 0
 
@@ -13,9 +14,10 @@ for coin in coin_types:
     n %= coin
 
 print(count)
+```
 
-
-# 3.2 큰 수의 법칙
+## 3.2 큰 수의 법칙
+```python
 n, m, k = map(int, input().split())
 data = list(map(int, input().split()))
 
@@ -30,9 +32,10 @@ result = 0
 result += first*first_count + second*second_count
 
 print(result)
+```
 
-
-# 3.3 숫자 카드 게임
+## 3.3 숫자 카드 게임
+```python
 n, m = map(int, input().split())
 
 min_values = []
@@ -44,9 +47,12 @@ for i in range(n):
     
 result = max(min_values)
 print(result)
+```
 
 
-# 3.5 1이 될 때까지
+## 3.5 1이 될 때까지
+
+```python
 n, k = map(int, input().split())
 result = 0
 
@@ -65,3 +71,4 @@ while n > 1:
     result += 1
 
 print(result)
+```
